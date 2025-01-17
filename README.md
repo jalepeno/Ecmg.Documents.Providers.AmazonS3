@@ -1,1 +1,1 @@
-# Ecmg.Documents.Providers.AmazonS3
+﻿A .NET library for abstracting Amazon S3 documents, versions and metadata.  It is a free version of a portion of the original Content Transformation Services framework.

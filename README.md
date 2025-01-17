@@ -1,0 +1,1 @@
+# Ecmg.Documents.Providers.AmazonS3
